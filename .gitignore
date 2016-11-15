@@ -1,1 +1,4 @@
 output
+*.py[oc]
+*.bak
+*.kopia
